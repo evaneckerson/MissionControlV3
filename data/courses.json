@@ -1,0 +1,34 @@
+{
+ "courses": [
+  {
+   "id": "ENGR 3090",
+   "name": "Statics",
+   "short": "Statics"
+  },
+  {
+   "id": "BMED 3010",
+   "name": "Bioinstrumentation",
+   "short": "Bioinstr."
+  },
+  {
+   "id": "BMED 4110",
+   "name": "Tissue Mechanics",
+   "short": "Tissue Mech."
+  },
+  {
+   "id": "BMED 4611",
+   "name": "Senior Design I",
+   "short": "Senior Design"
+  },
+  {
+   "id": "BMED 5230",
+   "name": "Molecular & Cellular Biophysics",
+   "short": "Biophysics"
+  },
+  {
+   "id": "ENGR 4000",
+   "name": "Engineering Ethics",
+   "short": "Ethics"
+  }
+ ]
+}

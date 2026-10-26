@@ -1,0 +1,43 @@
+{
+ "composedAt": "2026-10-26T17:09:45.210Z",
+ "mode": "exam-week",
+ "number": 1,
+ "main": [
+  {
+   "type": "masthead"
+  },
+  {
+   "type": "exam",
+   "itemId": "exam-engr3090-3",
+   "accent": true
+  },
+  {
+   "type": "asks",
+   "limit": 3
+  },
+  {
+   "type": "material",
+   "course": "ENGR 3090",
+   "limit": 6
+  },
+  {
+   "type": "agenda",
+   "days": 3
+  },
+  {
+   "type": "jobs-strip"
+  }
+ ],
+ "rail": [
+  {
+   "type": "body"
+  },
+  {
+   "type": "activity",
+   "hours": 48
+  },
+  {
+   "type": "money"
+  }
+ ]
+}
