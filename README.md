@@ -14,6 +14,10 @@ npm run dev                        # http://localhost:3000
 
 Check before showing anyone: `npm run build && node scripts/shots.mjs`, then look at `shots/`.
 
+## Live
+
+https://mission-control-v3-orpin.vercel.app — Vercel Hobby, Vercel Authentication on for all deployments, so only your Vercel login opens it. Every push to `main` redeploys.
+
 ## Deploy (free, private)
 
 1. Import this repo at vercel.com/new (Hobby plan). Framework: Next.js, no settings needed.
